@@ -2003,6 +2003,10 @@ body {
   .trucks__list {
     grid-template-columns: 1fr 1fr;
   }
+  .get_a_quote {
+    width: 95%;
+    max-width: 100%;
+  }
   .advantages__list,
 .why_choose__list {
     grid-template-columns: 1fr 1fr 1fr;
